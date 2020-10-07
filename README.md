@@ -1,2 +1,2 @@
 # Video-Chat-app
-Creating a multi client video chat application
+Creating a Peer to Peer video chat application
